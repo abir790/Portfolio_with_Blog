@@ -102,9 +102,7 @@ $result=$conn->query($sql);
 </body>
 </html>
  <div class="ajaira">
-    <h3>Hellow</h3>
-    <h3>Hellow</h3>
-    <h3>Hellow</h3>
+    <h3>From Data Base</h3>
     
  </div>
 
