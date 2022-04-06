@@ -31,16 +31,16 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active"  aria-current="page" href="<?php  echo $url2 ?>index.php">Home</a>
+          <a class="nav-link active"  aria-current="page" href="<?php  echo $url2 ?>blog.php">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="<?php echo $url2 ?>about.php">About Myself</a>
+          <a class="nav-link" href="<?php echo $url2 ?>">About Myself</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="<?php echo $url2 ?>users2/about.php">Contact</a>
+          <a class="nav-link" href="<?php echo $url2 ?>users2/">Contact</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="<?php echo $url2 ?>users2/contact.php">Blog</a>
+          <a class="nav-link" href="<?php echo $url2 ?>blog.php">Blog</a>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
