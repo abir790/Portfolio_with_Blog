@@ -72,17 +72,20 @@
 					</div>
 				</form>
 			</div>
-			<div class="card-footer">
-				<div class="d-flex justify-content-center links">
-					Don't have an account?<a href="#">Sign Up</a>
-				</div>
-				<div class="d-flex justify-content-center">
-					<a href="#">Forgot your password?</a>
-				</div>
-			</div>
+					<div class="r">
+						<h1 style="font-size:16px;">UserName: abirhasaan79@gmail.com</h1>
+						<button style="color:red;" id="pass" onclick="document.getElementById('pass').innerHTML='abir390' ";>
+							 Click here and get the password
+						</button>
+					</div>
 		</div>
 	</div>
 </div>
+<script type="text/javascript">
+	getPass(){
+		
+	}
+</script>
 </body>
 </html>
 <?php unset($_SESSION['warning'])?>
