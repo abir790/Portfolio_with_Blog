@@ -484,7 +484,7 @@
                   Somethings is commingSomethings is commingSomethings is commingSomethings is commingSomethings is commingSomethings is commingSomethings is commingSomethings is comming.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+                <img src="assets/img/" class="testimonial-img" alt="">
                 <h3>Somethings is comming</h3>
                 <h4>Ceo &amp; Founder</h4>
               </div>
@@ -497,7 +497,7 @@
                   Somethings is commingSomethings is commingSomethings is commingSomethings is commingSomethings is commingSomethings is commingSomethings is commingSomethings is commingSomethings is commingSomethings is commingSomethings is commingSomethings is comming
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
+                <img src="assets/img/" class="testimonial-img" alt="">
                 <h3>Somethings is comming</h3>
                 <h4>Designer</h4>
               </div>
@@ -510,9 +510,9 @@
                   Somethings is commingSomethings is commingSomethings is commingSomethings is commingSomethings is commingSomethings is commingSomethings is commingSomethings is commingSomethings is commingSomethings is comming
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
+                <img src="assets/img/" class="testimonial-img" alt="">
                 <h3>Somethings is comming</h3>
-                <h4>Store Owner</h4>
+                <h4>Store</h4>
               </div>
             </div><!-- End testimonial item -->
 
@@ -523,7 +523,7 @@
                   Somethings is commingSomethings is commingSomethings is commingSomethings is commingSomethings is commingSomethings is commingSomethings is commingSomethings is commingSomethings is comming
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
+                <img src="assets/img/" class="testimonial-img" alt="">
                 <h3>Somethings is comming</h3>
                 <h4>Freelancer</h4>
               </div>
@@ -536,7 +536,7 @@
                   Somethings is commingSomethings is commingSomethings is commingSomethings is commingSomethings is commingSomethings is commingSomethings is commingSomethings is comming
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
+                <img src="assets/img/" class="testimonial-img" alt="">
                 <h3>Somethings is comming</h3>
                 <h4>Entrepreneur</h4>
               </div>
