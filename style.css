@@ -1,0 +1,47 @@
+*{
+	box-sizing: border-box;
+}
+.slideShow-container{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 70vh;
+	background-color: skyblue;
+
+
+
+}
+.slideShow-elements{
+
+}
+.slideShow-element{
+	text-align: center;
+	position: absolute;
+	transform: translate(-50%,-50%) scale(0);
+}
+.slideShow-element i,h1{
+	color: black;
+	font-size: 3rem;
+
+} 
+.slideShow-element.current{
+	transform: translate(-50%,-50%) scale(1);
+}
+
+.posts{
+	width: 100%;
+	margin: 10px;
+	display: flex;   /* display flex  dile 100 % width puron hobe ______ then nicher row te asbe r sathe flex-wrap: wrap
+	                                                                      ta bole dite hobe*/
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+}
+.post{
+    width: 23%;
+    height: 100px;
+	margin: 10px;
+	box-shadow: 0 4px 16px 0 rgba(0, .0, .0, 1.0);
+	padding: 8px;
+
+}

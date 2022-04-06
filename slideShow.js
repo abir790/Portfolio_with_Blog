@@ -8,5 +8,3 @@ stop:function(){
     return "this is other page to show in this page";
     //document.getElement("this is other page to show in this page");
 }
-}
-
