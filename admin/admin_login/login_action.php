@@ -17,6 +17,8 @@ if ($rowcount==1) {
 	session_start();
 	$_SESSION['login']='Login Successfully';
 	header('location:index.php');
+	// for particular profile try it - header('location:index.php?id=$result['id']');
+	// then  $id=$_GET['id']; ata diye get korbo .. ai id diye pore query chaliye data perticular data show korbo
 }elseif ($rowcount !==1) {
 	session_start();
 	$_SESSION['wrong']='wrong username and password';
